@@ -26,8 +26,8 @@ $ pip install -r requirements.txt
 
 ## Reference
 
-If you use this code in your work, please cite our
-[publication](https://doi.org/10.5220/0007349300590067):
+If you use this code in your work, please cite
+[our publication](https://doi.org/10.5220/0007349300590067):
 
 ```
 @inproceedings{Antunes2019a,
