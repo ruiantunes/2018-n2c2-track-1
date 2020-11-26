@@ -30,7 +30,7 @@ If you use this code in your work, please cite
 [our publication](https://doi.org/10.5220/0007349300590067):
 
 ```
-@inproceedings{Antunes2019a,
+@inproceedings{antunes2019a,
   address   = {{Prague, Czech Republic}},
   author    = {Antunes, Rui and Silva, Jo{\~a}o Figueira and Pereira, Arnaldo and Matos, S{\'e}rgio},
   booktitle = {12th {{International Joint Conference}} on {{Biomedical Engineering Systems}} and {{Technologies}}},
